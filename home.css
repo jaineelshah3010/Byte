@@ -189,12 +189,12 @@ a{
 }
 .contact{
     font-family: 'Noto Sans JP', sans-serif;
-    margin-top: 6%;
+    margin-top: 7%;
     padding: 20px 40px;
 }
 .hr-cont{
     border: 1px solid #272829;
-    width: 290px;
+    width: 280px;
     height: 0px;
 }
 @media(max-width:1300px) {
@@ -1330,7 +1330,7 @@ a{
     
 
     .submit {
-        margin-top: 1%;
+        margin-top: 2%;
         border: 1px solid;
         width: 63%;
         font-family: 'Roboto', sans-serif;
